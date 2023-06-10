@@ -66,3 +66,25 @@ input{
     height: 20px;
     margin: 30px;
 }
+
+@media only screen and (max-width: 600px) {
+    .container{
+        display: grid;
+      grid-template-columns: auto auto;
+      margin: 30px;
+    }
+    input{
+        width: 50%;
+        height: 30px;
+        margin: 15px;
+    }
+    .design{
+        font-size: 15px;
+    }
+    #font{
+        margin: 15px;
+    }
+    .dugsiiye{
+        width: 90%;
+    }
+  }

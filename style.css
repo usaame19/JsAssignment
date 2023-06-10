@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Foldit:wght@200;300;400;500;600;700;800;900&family=Jockey+One&family=Kablammo&display=swap');
+
+
+
+.design{
+    margin: 20px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+}
+.container{
+    display: grid;
+  grid-template-columns: auto auto auto;
+  margin: 30px;
+
+}
+button{
+    background-color: white;
+    border: none;
+    color:gray;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.blueSky{
+    background-color: skyblue;
+}
+.black{
+    background-color: black;
+}
+.yellow{
+    background-color: yellow;
+}
+.cadetblue{
+    background-color: cadetblue;
+}
+.darkorchid{
+    background-color: darkorchid;
+}
+.gray{
+    background-color: gray;
+}
+
+.dugsiiye{
+    border: 1px solid black;
+    width: 60%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    color: rgb(64, 73, 112);
+}
+
+input{
+    width: 20%;
+    height: 20px;
+    margin: 30px;
+}
